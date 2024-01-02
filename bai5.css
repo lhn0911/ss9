@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.square{
+    width: 500px;
+    height: 300px;
+    background-color: rgb(118, 118, 117);
+    
+}
+
+.square:hover{
+    background-color: rgb(232, 7, 180);
+}
+
+.list{
+    font-size: 50px;
+    color: azure;
+    text-align: center;
+    position: relative;
+    bottom: -100px;
+}

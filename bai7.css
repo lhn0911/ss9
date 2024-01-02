@@ -1,0 +1,18 @@
+.square{
+    width: 500px;
+    height: 400px;
+    background-color: rgba(56, 47, 56, 0.785);
+    transition: all 1s;
+}
+
+.square:hover{
+    transform: scale(0.5);
+}
+
+.child{
+    font-size: 70px;
+    color: white;
+    text-align: center;
+    position: relative;
+    bottom: -150px;
+}

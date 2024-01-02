@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.square{
+    width: 350px;
+    height: 600px;
+    background-image: url(https://gcdnb.pbrd.co/images/Gx8qkZgU1AwG.png);
+    background-size: 350px;
+}
+
+.square .child{
+    color:white;
+    position: relative; 
+    bottom: -450px;
+    left: 15px;
+}
+.square .child-1{
+    color: white;
+    position: relative; 
+    bottom: -470px;
+    left: 15px;
+}
+.square .child-2{
+    color: white;
+    position: relative; 
+    bottom: -500px;
+    left: 15px;
+}

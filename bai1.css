@@ -1,0 +1,30 @@
+.square{
+    height: 400px;
+    width: 400px;
+    background-image: url(https://cdn.eva.vn/upload/3-2022/images/2022-08-14/hoailam-dang-anh-om-ban-gai-kem-10-tuoi-sau-clip-ngu-gat-asccsaacs-1660454095-57-width660height660.jpg);
+    background-size:400px;
+}
+.square .child-2{
+    color: aliceblue;
+    position: relative;
+    bottom: -320px;
+    left: 30px;
+    background-color: rgba(92, 92, 96, 0.642);
+    width: 370px;
+    height: 30px;
+
+}
+.square .child-1{
+    position: relative;
+    bottom: -370px;
+    background-color: rgba(92, 92, 96, 0.642);
+
+}
+.square .child-3{
+    position: relative;
+    bottom: -320px;
+
+}
+
+
+

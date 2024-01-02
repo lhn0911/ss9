@@ -1,0 +1,17 @@
+.square{
+    width: 300px;
+    height: 200px;
+    background-color: rgb(52, 47, 50);
+}
+
+.square:hover{
+    transform: rotate(-50deg);
+}
+
+.child{
+    font-size: 50px;
+    color: rgb(254, 254, 254);
+    text-align: center;
+    position: relative;
+    top: 60px;
+}
